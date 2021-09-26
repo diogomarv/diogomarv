@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- 🔭 I’m currently working on to a startup called Intcom Solutions and carry on my own projects. Here you can see one of them at: https://zify.me/
+- 🔭 I’m currently working on to a startup called Intcom Solutions and carry on my own projects. You can see one of them at: https://zify.me/
 - 🌱 I’m currently learning TypeScript with Angular 2+, TDD, DDD and others project architecture.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/diogomarv/">Linkedin</a>
 
