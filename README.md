@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning TypeScript with Angular 2+, TDD, DDD and others project architecture.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/diogomarv/">Linkedin</a>
 
-Hope that I can contribute to one of your projects and we can work together! ✔
+Hope that I can contribute to one of your projects and we can make great things together! ✔
 
  <div>
   <a href="https://github.com/diogomarv">
