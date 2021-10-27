@@ -1,7 +1,7 @@
 ### Hello! 👋
 
-- 🔭 I’m currently working on to a startup called Intcom Solutions and carry on my own projects. You can see one of them at: https://zify.me/
-- 🌱 I’m currently learning TypeScript with Angular 2+, TDD, DDD and others project architecture.
+- 🔭 I’m currently working on to a startup called Avivatec and carry on my own projects. Want to see one of them? Check this out: https://zify.me/
+- 🌱 I love to learn project architecture as well! Now I'm learning SOLID, TDD and others project architecture.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/diogomarv/">Linkedin</a>
 
 Hope that I can contribute to one of your projects and we can make great things together! ✔
