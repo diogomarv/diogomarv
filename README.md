@@ -6,11 +6,6 @@
 
 Hope that I can contribute to one of your projects and we can make great things together! ✔
 
- <div>
-  <a href="https://github.com/diogomarv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogomarv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogomarv&layout=compact&langs_count=7&theme=tokyonight"/>  
- </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diogo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
