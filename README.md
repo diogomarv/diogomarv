@@ -1,17 +1,86 @@
-### Hello! 👋
+<h1 align="center">Hi there 👋 I'm Diogo</h1>
 
-- 🔭 I’m currently working on to a startup called Avivatec and carry on my own projects. Want to see one of them? Check this out: https://zify.me/
-- 🌱 I love to learn project architecture as well! Now I'm learning SOLID, TDD and others project architecture.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/diogomarv/">Linkedin</a>
+<h3 align="center">
+Senior Full-Stack Engineer | Tech Lead | SaaS Builder
+</h3>
 
-Hope that I can contribute to one of your projects and we can make great things together! ✔
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Diogo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Diogo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Diogo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
+## 🚀 About me
+
+- 💼 Senior Software Engineer focused on scalable and multi-tenant architectures
+- 🧠 Strong background in **.NET, Node.js, Angular, Next.js and PostgreSQL**
+- 🏗️ Passionate about **clean architecture, DDD, SOLID, TDD and system design**
+- 🌎 Preparing for **international remote opportunities**
+- 💰 Building my own **SaaS products and digital businesses**
+
+I don’t just build features — I design **products, architectures and long-term solutions**.
+
+---
+
+## 🧩 What I’m doing right now
+
+- 🔭 Tech Lead in enterprise financial systems
+- 🚀 Building SaaS products focused on real problems
+- 📚 Deep diving into:
+  - Distributed systems
+  - Software architecture
+  - High performance backends
+  - Cloud & DevOps
+
+## 🛠️ Tech Stack
+
+### Backend
+- .NET / C#
+- Node.js
+- REST APIs
+- Entity Framework / Dapper
+- RabbitMQ
+- Hangfire
+
+### Frontend
+- Angular
+- Next.js
+- React
+- TypeScript
+- Tailwind / CSS
+
+### Database
+- PostgreSQL
+- SQL Server
+
+### Architecture & Practices
+- DDD
+- SOLID
+- Clean Architecture
+- TDD
+- Design Patterns
+- Microservices
+- Multi-tenant systems
+
+### DevOps & Cloud
+- Docker
+- AWS
+- CI/CD
+- SonarQube
+
+---
+
+## 🌎 Let’s connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/diogomarv/
+
+---
+
+## ⚡ Mindset
+
+I’m driven by:
+
+- Building scalable products
+- Financial growth through technology
+- Global career opportunities
+- High performance engineering
+
+---
+
+⭐ From Brazil to the world — building systems that scale.
