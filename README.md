@@ -34,10 +34,3 @@ Docker • AWS • CI/CD
 ## 📫 Connect with me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/diogomarv/
-
----
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diogomarv&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogomarv&layout=compact&theme=radical"/>
-</p>
