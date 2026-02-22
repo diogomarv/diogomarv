@@ -1,86 +1,43 @@
-<h1 align="center">Hi there 👋 I'm Diogo</h1>
+<h1 align="center">Hi 👋 I'm Diogo</h1>
 
-<h3 align="center">
-Senior Full-Stack Engineer | Tech Lead | SaaS Builder
-</h3>
-
----
-
-## 🚀 About me
-
-- 💼 Senior Software Engineer focused on scalable and multi-tenant architectures
-- 🧠 Strong background in **.NET, Node.js, Angular, Next.js and PostgreSQL**
-- 🏗️ Passionate about **clean architecture, DDD, SOLID, TDD and system design**
-- 🌎 Preparing for **international remote opportunities**
-- 💰 Building my own **SaaS products and digital businesses**
-
-I don’t just build features — I design **products, architectures and long-term solutions**.
+<p align="center">
+Senior Full-Stack Engineer | .NET | Angular | Node.js
+</p>
 
 ---
 
-## 🧩 What I’m doing right now
+## 👨‍💻 About me
 
-- 🔭 Tech Lead in enterprise financial systems
-- 🚀 Building SaaS products focused on real problems
-- 📚 Deep diving into:
-  - Distributed systems
-  - Software architecture
-  - High performance backends
-  - Cloud & DevOps
+- 💼 Tech Lead building scalable enterprise systems  
+- 🧠 Focused on **Software Architecture, DDD, SOLID and TDD**  
+- 🌎 Preparing for **global remote opportunities**  
+- 🚀 SaaS builder & product-driven developer  
+
+---
 
 ## 🛠️ Tech Stack
 
-### Backend
-- .NET / C#
-- Node.js
-- REST APIs
-- Entity Framework / Dapper
-- RabbitMQ
-- Hangfire
+**Backend:**  
+.NET • C# • Node.js • REST • EF Core • Dapper • RabbitMQ • Hangfire  
 
-### Frontend
-- Angular
-- Next.js
-- React
-- TypeScript
-- Tailwind / CSS
+**Frontend:**  
+Angular • React • Next.js • TypeScript  
 
-### Database
-- PostgreSQL
-- SQL Server
+**Database:**  
+PostgreSQL • SQL Server  
 
-### Architecture & Practices
-- DDD
-- SOLID
-- Clean Architecture
-- TDD
-- Design Patterns
-- Microservices
-- Multi-tenant systems
-
-### DevOps & Cloud
-- Docker
-- AWS
-- CI/CD
-- SonarQube
+**DevOps & Cloud:**  
+Docker • AWS • CI/CD  
 
 ---
 
-## 🌎 Let’s connect
+## 📫 Connect with me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/diogomarv/
 
 ---
 
-## ⚡ Mindset
-
-I’m driven by:
-
-- Building scalable products
-- Financial growth through technology
-- Global career opportunities
-- High performance engineering
-
----
-
-⭐ From Brazil to the world — building systems that scale.
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diogomarv&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogomarv&layout=compact&theme=radical"/>
+</p>
